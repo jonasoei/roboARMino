@@ -32,4 +32,5 @@ In this code only the servos 1-3 are used. For the following servos extend the c
 
 ## References:
 [1] https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/, accessed 28.08.2021
+
 [2] StandardFirmata: https://www.arduino.cc/reference/en/libraries/firmata/
