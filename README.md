@@ -1,5 +1,5 @@
 # robotARMini
-Python skript to control an arduino based robot arm via a python Interface.
+Python script to control an arduino based robot arm via a python Interface.
 
 ## Setup:
 <figure role="group">
