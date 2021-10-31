@@ -12,7 +12,7 @@ Python skript to control an arduino based robot arm via a python Interface.
 The Software Interface is done with Tkinter via a User Interface with sliders.
 
 ## GUI:
-Designed with Tkinter slides:
+Designed with Tkinter[3] slides:
 
 <figure role="group">
   <img src="./figures/GUI_fig.png" alt="GUI" width=300>
